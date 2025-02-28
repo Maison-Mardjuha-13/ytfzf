@@ -1,7 +1,7 @@
 # NOTICE
 
 This project is no longer actively maintained, it should still work for the foreseeable future
-Change 1 branch 1 --- change 2 /// change 3
+CHANGE 1 -> CHANGE 2 -> CHANGE 3
 
 ---
 
