@@ -1,7 +1,7 @@
 # NOTICE
 
 This project is no longer actively maintained, it should still work for the foreseeable future
-CHANGE 1 -> CHANGE 2 -> CHANGE 3
+CHANGE 1 .. Change 2 ]]]]> CHANGE 3
 
 ---
 
